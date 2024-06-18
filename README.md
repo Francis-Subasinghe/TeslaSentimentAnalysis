@@ -1,2 +1,2 @@
 # TeslaSentimentAnalysis
-Analyzed Reddit comments on Tesla vehicles using PRAW, TextBlob, and VADER to uncover sentiment trends and insights.
+This project involves analyzing consumer sentiment on Reddit regarding Tesla Model S and Model 3 vehicles. Using PRAW (Python Reddit API Wrapper) to gather data, TextBlob for basic sentiment analysis, and VADER for a more nuanced sentiment analysis, I processed and analyzed Reddit comments to uncover key insights. The findings, which highlighted a predominantly positive sentiment towards Tesla vehicles, offer valuable guidance for improving the EV owner experience.
